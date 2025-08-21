@@ -43,7 +43,7 @@ Product strategy · Data-driven decision making · AI in business processes · S
 ## 📫 Contact
 
 - **Email:** fctanubrata@gmail.com
-- **LinkedIn:** [Linkedin](www.linkedin.com/in/fct87)
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/fct87)
 - **GitHub:** [Github](https://github.com/fctanu)
 - **Portfolio / Website:** (Optional)
 
