@@ -11,7 +11,7 @@ I'm pursuing a dual Bachelor's degree in **Entrepreneurship** & **Information Sy
 
 **Binus University** (Aug 2023 – Aug 2027)  
 Dual Degree: Entrepreneurship & Information Systems  
-GPA: **3.88 / 4.00**
+
 
 ## 💻 Technical Skills
 
@@ -30,12 +30,6 @@ GPA: **3.88 / 4.00**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </p>
 
-## 🏆 Competitions & Achievements
-
-- 🥉 **3rd Place – B-Startion Edulogy (2023):** Developed a tech-focused startup concept
-- 🎯 **Semifinalist – VISIBLE: Visionary Business Plan Competition (ITS, 2023)**
-- 🚀 **Semifinalist – National Start-Up Competition (Universitas Negeri Surabaya, 2023)**
-
 ## 🔍 Interests
 
 Product strategy · Data-driven decision making · AI in business processes · Startup innovation
@@ -43,9 +37,6 @@ Product strategy · Data-driven decision making · AI in business processes · S
 ## 📫 Contact
 
 - **Email:** fctanubrata@gmail.com
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/fct87)
-- **GitHub:** [Github](https://github.com/fctanu)
-- **Portfolio / Website:** (Optional)
 
 ## 🌱 Currently Exploring
 
